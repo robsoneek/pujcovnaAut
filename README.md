@@ -1,5 +1,6 @@
 # pujcovnaAut
 Dokumentace k projektu Půjčovna aut
+
 Funkce:
 -	registrace vozidla (auto/motorka)
 o	zadání VIN, SPZ, výrobce, modelu, rok výroby, ceny za den, stavu tachometru, počet míst, dostupnost (je-li vozidlo vypůjčeno nebo ne)
