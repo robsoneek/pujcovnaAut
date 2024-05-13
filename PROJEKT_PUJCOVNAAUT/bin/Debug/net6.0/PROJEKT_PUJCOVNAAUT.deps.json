@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PROJEKT_PUJCOVNAAUT/1.0.0": {
+        "runtime": {
+          "PROJEKT_PUJCOVNAAUT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROJEKT_PUJCOVNAAUT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
