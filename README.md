@@ -29,6 +29,7 @@ o	viz. upravení údajů o vozidle
 o	viz. vypisování všech vozidel
 -	uložení do souboru, načtení ze souboru
 o	pomocí SteamWriter uloží data do souboru, pomocí SteamReader je načte zpátky ze souboru
+
 Využití tříd a metod:
 -	6 tříd (auto, motorka, zákazník, půjčka, půjčovna)
 -	každá třída (kromě třídy půjčovna) má vlastní metodu na vypsání informací o daném objektu
